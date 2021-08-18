@@ -2,7 +2,7 @@
 
 Unity-Version: 2020.1.6f1</br>
 
-As part of my master studies in the first semester at the HTW Berlin - University of Applied Sciences, I developed a maze game with Unity3D in winter 2020/2021.
+As part of my master studies in the first semester at the HTW Berlin - University of Applied Sciences, I developed a maze game with Unity3D in winter 2020/2021.<br>
 <i>Sample Scene, materials and prefabs provided by my professor PhD David Strippgen</i>.
 
 My part was to implement the <b>Recursive-backtracker Algorithm</b>.
